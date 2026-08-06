@@ -3,6 +3,7 @@ Engineering notes — things I keep re-explaining, written down once.
 
 ## Further reading
 
+- [Threshold tuning for user-generated content, and when a review queue beats a hard block](posts/threshold-tuning-for-user-generated-content-and-when-a-review-queue-beat.md)
 - [Picking a Long-Context Chat API for SaaS Support Without Guessing at Quality](posts/picking-a-long-context-chat-api-for-saas-support-without-guessing-at-qua.md)
 - [Text-to-image in a Node.js SaaS app: which API to pick, and what it costs you later](posts/text-to-image-in-a-node-js-saas-app-which-api-to-pick-and-what-it-costs.md)
 - [JSON extraction from long documents in Node.js: chunking, token limits, timeouts](posts/json-extraction-from-long-documents-in-node-js-chunking-token-limits-tim.md)
